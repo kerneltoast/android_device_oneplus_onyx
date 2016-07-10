@@ -111,7 +111,7 @@ PRODUCT_PACKAGES += \
 
 # Doze
 PRODUCT_PACKAGES += \
-    OnyxDoze
+    OneplusDoze
 
 # Gello
 PRODUCT_PACKAGES += \
